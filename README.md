@@ -1,1 +1,1 @@
-<img src="imgs/fondo.jpng" alt="Fondo de perfil" width="100%">
+<img src="imgs/Fondo.jpng" alt="Fondo de perfil" width="100%">
