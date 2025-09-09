@@ -1,1 +1,1 @@
-<img src="imgs/Fondo.jpeg" alt="Fondo de perfil" width="90%">
+<img src="imgs/Fondo.jpeg" alt="Fondo de perfil" width="100%">
